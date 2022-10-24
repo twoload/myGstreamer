@@ -1,5 +1,7 @@
 # myGstreamer  
 my gstreamer project  
+* I've referred gstreamer tutorial source codes.
+* (https://gstreamer.freedesktop.org/documentation/tutorials/basic/index.html?gi-language=c)  
 # basic-tutorial-1  
 * export GST_DEBUG=3  
 * Error :souphttpsrc gstsouphttpsrc.c:1380:gst_soup_http_src_parse_status:<source> error: Unacceptable TLS certificate (6),  
